@@ -67,3 +67,7 @@ TrainingArguments를 실행시킬 때, ImportError: Using the Trainer with PyTor
 
 ### GPT
 - [GPT-1.0 논문 리뷰](https://pred0771.tistory.com/216)
+
+
+### 공개 한국어 Instructions dataset
+- [open korean-instructions datasets](https://github.com/HeegyuKim/open-korean-instructions?tab=readme-ov-file)

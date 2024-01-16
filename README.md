@@ -72,10 +72,3 @@ TrainingArguments를 실행시킬 때, ImportError: Using the Trainer with PyTor
 ### 공개 한국어 Instructions dataset
 - [open korean-instructions datasets github](https://github.com/HeegyuKim/open-korean-instructions?tab=readme-ov-file)
 - [추가적인 datasets link](https://pred0771.tistory.com/219)
-https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-korean,
-https://huggingface.co/datasets/junelee/sharegpt_deepl_ko,
-https://huggingface.co/datasets/dbdu/ShareGPT-74k-ko,
-https://huggingface.co/datasets/heegyu/korquad-chat-v1,
-https://huggingface.co/datasets/nlpai-lab/kullm-v2,
-https://huggingface.co/datasets/nlpai-lab/openassistant-guanaco-ko,
-https://huggingface.co/datasets/psymon/namuwiki_alpaca_dataset)

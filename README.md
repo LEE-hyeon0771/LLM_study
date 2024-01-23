@@ -69,7 +69,5 @@ TrainingArguments를 실행시킬 때, ImportError: Using the Trainer with PyTor
 - [GPT-1.0 논문 리뷰](https://pred0771.tistory.com/216)
 
 
-### 공개 한국어 Instructions dataset
-- [open korean-instructions datasets github](https://github.com/HeegyuKim/open-korean-instructions?tab=readme-ov-file)
-- [추가적인 datasets link](https://pred0771.tistory.com/219)
-- instruction_preprocessing.py code는 모든 dataSets 들을 instruction, output, input 포맷으로 변경하고자하는 전처리 과정이다.
+### 공개 한국어 Instructions dataset 가공하기
+- [korean - instruction dataset preprocessing tutorial](https://github.com/LEE-hyeon0771/instruction_dataset/tree/main)

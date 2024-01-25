@@ -71,3 +71,6 @@ TrainingArguments를 실행시킬 때, ImportError: Using the Trainer with PyTor
 
 ### 공개 한국어 Instructions dataset 가공하기
 - [korean - instruction dataset preprocessing tutorial](https://github.com/LEE-hyeon0771/instruction_dataset/tree/main)
+
+### Self-Instruction
+- [Self-Instrution 논문 리뷰](https://pred0771.tistory.com/220)

@@ -80,3 +80,6 @@ TrainingArguments를 실행시킬 때, ImportError: Using the Trainer with PyTor
 
 ### LLM hyper-parameters
 - [Hallucination & Inference와 연관된 LLM Hyperparameters](https://github.com/LEE-hyeon0771/LLM_parameters)
+
+### LLaMA
+- [LLaMA 논문 리뷰](https://pred0771.tistory.com/224)

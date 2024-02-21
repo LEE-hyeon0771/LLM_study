@@ -87,3 +87,6 @@ TrainingArguments를 실행시킬 때, ImportError: Using the Trainer with PyTor
 ### LLM 기법
 - [PEFT, LoRA, QLoRA, RAG](https://pred0771.tistory.com/225)
 - [langchain & llama-index](https://github.com/LEE-hyeon0771/langchain_llama-index)
+
+### Prompt Engineering(보고서)
+- [보고서 Task](https://github.com/LEE-hyeon0771/LLM_study/blob/main/prompt%20engineering.md)

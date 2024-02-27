@@ -89,7 +89,7 @@ gpt는 사무용 보고서, 학술 연구 보고서, 비즈니스 분석 보고�
 부록 : 추가로 사용자가 제시한 자료 - 있다면 삽입, 없다면 삭제)
 ```
 
-- CoT 방식 적용
+### CoT 방식 적용
 ![image](https://github.com/LEE-hyeon0771/LLM_study/assets/84756586/f28a958c-85df-4856-95af-ccdaa1eea484)
 ![image](https://github.com/LEE-hyeon0771/LLM_study/assets/84756586/98a51222-e560-4a69-95a1-772b471d5888)
 ![image](https://github.com/LEE-hyeon0771/LLM_study/assets/84756586/7e15f073-1dea-4ddd-980b-b414dae61e04)
@@ -100,6 +100,9 @@ gpt는 사무용 보고서, 학술 연구 보고서, 비즈니스 분석 보고�
 ![image](https://github.com/LEE-hyeon0771/LLM_study/assets/84756586/e0f20a05-a2bd-420f-a09d-ee5319c350e6)
 ![image](https://github.com/LEE-hyeon0771/LLM_study/assets/84756586/278547c4-5716-439b-84d8-64dac45798a8)
 
+CoT 방식을 적용해서 양질의 답변을 얻어낼 수 있게 된다.
+
+여기서 하나의 중요한 지점이 있는데, 바로 영어로 output을 출력한다는 것이다. 이를 이용하면 내용 확장에 더욱 도움이 될 수 있다.
 
 
 
@@ -108,7 +111,7 @@ gpt는 사무용 보고서, 학술 연구 보고서, 비즈니스 분석 보고�
 
 
 
-- Prompt Engineering 내용 확장
+## Prompt Engineering 내용 확장
 ![image](https://github.com/LEE-hyeon0771/LLM_study/assets/84756586/1be93f65-af2c-400f-833b-78ca335aef26)
 ![image](https://github.com/LEE-hyeon0771/LLM_study/assets/84756586/2a93b68e-3b3f-4a02-9e4c-1a92b42673ea)
 

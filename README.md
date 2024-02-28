@@ -92,4 +92,4 @@ TrainingArguments를 실행시킬 때, ImportError: Using the Trainer with PyTor
 - [보고서 Task](https://github.com/LEE-hyeon0771/LLM_study/blob/main/prompt%20engineering.md)
 
 ### 인턴십 최종 발표
-- [최종발표 ppt](https://github.com/LEE-hyeon0771/LLM_study/blob/main/LLM-%EC%84%B8%EA%B3%84%EB%A1%9C%EC%9D%98-%EC%97%AC%EC%A0%95.pdf)
+- [최종발표 ppt](https://github.com/LEE-hyeon0771/LLM_study/blob/main/LLM_%EC%84%B8%EA%B3%84%EB%A1%9C%EC%9D%98_%EC%97%AC%EC%A0%95.pdf)

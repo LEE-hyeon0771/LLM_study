@@ -98,3 +98,8 @@ TrainingArguments를 실행시킬 때, ImportError: Using the Trainer with PyTor
 - [Are Emergent Abilities of Large Language Models a Mirage?](https://pred0771.tistory.com/237)
 - [Jailbroken: How Does LLM Safety Training Fail?](https://pred0771.tistory.com/239)
 - [Toolformer: Language Models Can Teach Themselves to Use Tools](https://pred0771.tistory.com/241)
+- [ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings](https://pred0771.tistory.com/243)
+- [QLoRA: Efficient Finetuning of Quantized LLMs](https://pred0771.tistory.com/244)
+- [Scaling Data-Constrained Language Models](https://pred0771.tistory.com/245)
+- [DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models](https://pred0771.tistory.com/246)
+- [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://pred0771.tistory.com/247)

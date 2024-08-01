@@ -93,8 +93,8 @@ TrainingArguments를 실행시킬 때, ImportError: Using the Trainer with PyTor
 
 
 ### BERT 모델 Fine-tuning
-[BERT 모델 Fine-tuning & HuggingFace Upload](https://huggingface.co/HyeoniLEE/book_finetuned_model)
-[Fine-tuning Book Dataset](https://huggingface.co/datasets/HyeoniLEE/books_dataset)
+- [BERT 모델 Fine-tuning & HuggingFace Upload](https://huggingface.co/HyeoniLEE/book_finetuned_model)
+- [Fine-tuning Book Dataset](https://huggingface.co/datasets/HyeoniLEE/books_dataset)
 
 
 ### 인턴십 최종 발표
